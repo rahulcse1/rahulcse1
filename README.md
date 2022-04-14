@@ -5,7 +5,9 @@
 - 💞️ I’m looking to collaborate on web3, ethereum knowleding sharing 
 - 📫 How to reach me : rahulcse1@gmail.com
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="rahulcse1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/rahulcse1?trk=profile-badge">Amar Jeet C.</a></div>
+### LinkedIn Profile ###
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="rahulcse1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/rahulcse1?trk=profile-badge">Amar Jeet C.</a></div>
+
 
 <!---
 rahulcse1/rahulcse1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
