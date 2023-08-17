@@ -1,8 +1,8 @@
 ## Hey there, I'm Amar Jeet! 👋
 
-- 👀 I’m interested in JVM basesd tech, Machine learning, web3 etc
-- 🌱 I’m currently learning Web3, System Design
-- 💞️ I’m looking to collaborate on web3, ethereum knowleding sharing 
+- 👀 I’m interested in JVM basesd tech, Currently actively used Java 17, Spring boot, Spring Webfluex, Typescript etc
+- 🌱 I’m currently learning Kotlin, System Design
+- 💞️ I’m looking to collaborate on knowleding sharing 
 - 📫 How to reach me : rahulcse1@gmail.com
 
 ### LinkedIn Profile ###
