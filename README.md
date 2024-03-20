@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
  ## Languages & Github: ##
 
 <a href="https://github.com/rahulcse1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulcse1&theme=light&count_private=true&layout=compact" alt="Amar Jeet's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulcse1&theme=light&layout=compact" alt="Amar Jeet's most used languages" />
 </a>
 <a href="https://github.com/rahulcse1">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulcse1&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Amar Jeet's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulcse1&show_icons=true&theme=light&line_height=27&include_all_commits=true&hide=issues,prs,contribs" alt="Amar Jeet's github stats"/>
 </a>
