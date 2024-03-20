@@ -10,7 +10,10 @@
 
 ## Languages & GitHub: ##
 
-
+<a href="https://github.com/rahulcse1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulcse1&theme=light&layout=compact" alt="Amar Jeet's most used languages" />
-
+</a>
+<a href="https://github.com/rahulcse1">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulcse1&show_icons=true&theme=light&line_height=27&include_all_commits=true" alt="Amar Jeet's GitHub stats"/>
+</a>
+
