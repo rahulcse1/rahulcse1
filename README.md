@@ -10,15 +10,9 @@
 
 ## GitHub Metrics 🚀
 
-<picture>
-  <source
-    srcset="https://metrics.lecoq.io/rahulcse1?template=dark&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.details=bytes&languages.indepth=true&repositories=1&repositories.batch=100&followup=1&config.timezone=UTC"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://metrics.lecoq.io/rahulcse1?template=classic&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.details=bytes&languages.indepth=true&repositories=1&repositories.batch=100&followup=1&config.timezone=UTC"
-    alt="GitHub Metrics for Jeet"
-  />
-</picture>
-
-
+<a href="https://github.com/rahulcse1">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahulcse1&layout=compact" />
+</a>
+<a href="https://github.com/rahulcse1">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahulcse1&show_icons=true&include_all_commits=true" />
+</a>
